@@ -14,6 +14,8 @@ The DOS (Digital Objects and Society) Misinformation Hub is an interactive acade
 * **🧟 Spot the Troll:** A social media simulation mini-game where users must identify malicious actors (Outrage Bots, Scammers, and Fake Experts) hiding among normal accounts.
 * **🔍 Fact-Checking API:** A live integration with the Google Fact Check Tools API, allowing users to search real-world claims and view official debunks.
 * **🕸️ Cascade Analysis:** A data visualization module using NetworkX to map the decentralized, viral spread of false information across peer networks.
+Landing Page-
+<img width="2558" height="1256" alt="Screenshot 2026-06-17 202653" src="https://github.com/user-attachments/assets/12da31fc-828b-40f7-976e-2cb8eb3a6128" />
 
 ---
 
