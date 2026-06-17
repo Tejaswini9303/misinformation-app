@@ -1,0 +1,14 @@
+[theme]
+# The main accent color for sliders and active buttons (Navy)
+primaryColor = "#202940"
+
+# Main page background (kept white so your text and images stay highly readable)
+backgroundColor = "#FFFFFF"
+
+# Sidebar and flashcard background (Light Beige)
+secondaryBackgroundColor = "#CAAA98"
+
+# Text color (Dark Brown)
+textColor = "#4B4038"
+
+font = "sans serif"
