@@ -24,7 +24,7 @@ def get_base64_of_bin_file(bin_file):
     return base64.b64encode(data).decode()
 
 # 2. Convert your local image (TYPE YOUR EXACT IMAGE NAME HERE)
-img_base64 = get_base64_of_bin_file("01.png") 
+img_base64 = get_base64_of_bin_file("attachments/01.png") 
 
 # --- CUSTOM PALETTE & BACKGROUND CSS ---
 st.markdown(f"""
